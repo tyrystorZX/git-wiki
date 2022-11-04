@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Add Amazon Sagemaker Docs integrations page (#7293)
