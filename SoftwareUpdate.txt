@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
