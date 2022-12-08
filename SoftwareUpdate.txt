@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add missing single-line docstrings (#8362)
