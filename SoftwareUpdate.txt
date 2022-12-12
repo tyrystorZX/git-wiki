@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Add visuals in guides/distance-calculation.md (#7876)
