@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
