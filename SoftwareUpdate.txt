@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add docstrings to new HUB functions (#7576)
