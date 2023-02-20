@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
