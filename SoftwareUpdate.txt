@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Fix PNNX ubuntu -> linux bug (#7050)
