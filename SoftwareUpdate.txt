@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+OpenVino 2024.0.0 (#8726)
