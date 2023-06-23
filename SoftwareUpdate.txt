@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fix Neural Magic links (#9144)
