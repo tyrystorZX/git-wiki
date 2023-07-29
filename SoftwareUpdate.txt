@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
