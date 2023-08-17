@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
