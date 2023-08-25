@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
