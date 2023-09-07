@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
