@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Replace onnx2tf usage from CLI to Python (#8429)
