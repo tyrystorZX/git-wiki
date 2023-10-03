@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Explorer with LanceDB, Actions and Docs updates (#7487)
