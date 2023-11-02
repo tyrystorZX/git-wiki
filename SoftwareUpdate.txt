@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
