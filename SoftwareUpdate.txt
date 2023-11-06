@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Update Docs Home and Neural Magic pages (#7243)
