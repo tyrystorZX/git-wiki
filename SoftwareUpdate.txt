@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
