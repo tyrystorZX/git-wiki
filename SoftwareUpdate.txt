@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
