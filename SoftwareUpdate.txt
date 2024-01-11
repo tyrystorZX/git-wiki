@@ -1,1 +1,1 @@
-add yolov10
+Update docs building code (#7601)
