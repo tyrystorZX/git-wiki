@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
