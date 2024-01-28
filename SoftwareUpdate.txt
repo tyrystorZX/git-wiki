@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
