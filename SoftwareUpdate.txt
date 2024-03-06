@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+fix resume training
