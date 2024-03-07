@@ -1,1 +1,1 @@
-fix resume training
+fix for KeyError: 'epoch' (#48)
