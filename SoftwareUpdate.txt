@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add docs guide terminal images (#8819)
