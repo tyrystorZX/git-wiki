@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Update OpenVINO INT8 export (#7515)
