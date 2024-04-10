@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
