@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Compress docs images (#8124)
