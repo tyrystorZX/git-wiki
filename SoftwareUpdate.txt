@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add CoreML Docs Integrations Page (#8063)
